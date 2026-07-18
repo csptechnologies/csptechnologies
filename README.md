@@ -6,7 +6,7 @@
   <img width="150.25" height="150.25" alt="Security+-png" src="https://github.com/user-attachments/assets/4ac6ac70-1c2a-4b32-8c94-edd40b58fe53"/>
 </a>
 
-- 🔭 I’m currently working on CSP RP-01 and my HackPad 
+- 🔭 I’m currently working on SNOM endpoint module for Open Paging Server
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on any projects that interests me
 - 🤔 I’m looking for help with learning C
