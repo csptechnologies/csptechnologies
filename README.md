@@ -15,3 +15,7 @@
 - 🤔 I’m looking for help with learning C
 - 💬 Ask me about anything!
 - 📫 How to reach me: Call: +1 (940) 253-7277 Email: Ryan@csptech.org
+
+<div align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended" targe="_blank"><img src="https://github-stats-extended.vercel.app/api?username=csptechnologies&hide=stars,prs&count_private=true&show_icons=true" title="Ryan's GitHub Stats" /></a>
+</div>
