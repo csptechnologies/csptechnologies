@@ -10,7 +10,7 @@
 </a>
 
 - 🔭 I’m currently working on SNOM endpoint module for Open Paging Server
-- 🌱 I’m currently learning C
+- 🌱 I’m currently studying for the CCNA
 - 👯 I’m looking to collaborate on any projects that interests me
 - 🤔 I’m looking for help with learning C
 - 💬 Ask me about anything!
